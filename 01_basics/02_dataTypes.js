@@ -25,3 +25,8 @@ console.log(typeof null)        //null is object
 console.log(typeof undefined)  //undefined -->type
 
 // Assignment: ...
+
+// git add 01_basics/02_dataTypes.js
+// git commit -m "update datatypes file with comments"
+// git push origin main
+
