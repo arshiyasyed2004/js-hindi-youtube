@@ -2,7 +2,7 @@
 
 //alert( 3 + 3);    /// we are using node.js not browser
 
-console.log(3 + 3) ;    //code readability should be high
+console.log(3 + 3);    //code readability should be high
 console.log("Arshiya");
 
 let name = "Arshiya"
@@ -24,4 +24,4 @@ console.log(typeof "Arshiya")
 console.log(typeof null)        //null is object
 console.log(typeof undefined)  //undefined -->type
 
-// Assignment:
+// Assignment: ...
