@@ -18,3 +18,4 @@ cope and functional scope
 
 console.table([accountId, accountEmail, accountpassword, accountCity, accountState])
 
+
