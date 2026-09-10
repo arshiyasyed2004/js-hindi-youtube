@@ -44,5 +44,20 @@ let a;
 console.log(typeof a);
 
 
+let Myspace = function (){
+    console.log("Arshiya");
+}
+console.log(Myspace);
 
 
+let arm=({
+    key: "arshiya",
+    value: 71
+}
+)
+console.log(typeof arm);
+
+console.log(typeof anotherId);
+ 
+let z = false;
+console.log(typeof z);
